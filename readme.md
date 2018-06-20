@@ -10,12 +10,12 @@ I want you to be comfortable with cutting edge deep learning techniques, but als
 
 Upon successful completion of this course, students will be able to:
 
-1. **Setup** a scientific python computing environment
+1. **Setup** and manage a scientific python computing environment
 2. **Implement** key computer vision algorithms in python to solve real computer vision problems
 3. **Train + Validate** machine learning models to find data-based solutions to computer vision problems
 4. **Interpret** algorithm performance through measurement techniques and by creating clarifying visualizations
 5. **Debug** issues in computer vision algorithms in python
-6. **Understand** the difference between analytical and emprical techniques, and the role each plays in the field
+6. **Understand** the difference between analytical and empirical techniques, and the role each plays in the field
 7. **Discuss** historical and current trends in computer vision and key research developments
 
 ## Schedule
