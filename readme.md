@@ -1,11 +1,8 @@
-# UNCC Computer Vision
-
-ITCS 4152/ITCS 5152 
-
+# Computer Vision
 
 ![](graphics/roberts_world_3b.gif)
 
----
+## About this Course
 
 The thing we're going to learn about in this course, computer vision, has a very interesting history. It's roots really go all the way back to the beginning of computing and artifical intelligence. When this course is over, I want you to understand where we really are today, how we got here, and be able to make some reasonable conjectures about where the field is going next.
 
