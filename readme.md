@@ -42,15 +42,23 @@ Each module will end with a short in-class quiz. These quizzes will test basic k
 ### Course Project (40%)
 The course will include a long-term group project. This project represents a significant portion of a student's grade, and will be broken up into 2 checkpoint (10% each), and a final presentation/submission (20%). 
 
+## Programming
+We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, and tensorflow. 
 
-## Policies
-Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams. 
+## Preparation + Prerequisites
+Familiarity with the key techniques of linear algebra, univariate calculus will be useful. We will hit the ground running with python and numpy, so a little experience here would also helpful. 
+
 
 ## Resources
 We will draw from 3 texts in this course, each available online:
 1. [Szeliski, Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 2. [Prince, Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 3. [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
+
+## Policies
+Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams. 
+
+
 
 
 
