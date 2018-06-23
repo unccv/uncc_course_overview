@@ -39,7 +39,7 @@ Most modules will be accompanied with a coding challenge. These challenges will 
 ### Quizzes (30%)
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
 
-### Course Project(40%)
+### Course Project (40%)
 The course will include a long-term group project. This project represents a significant portion of a student's grade, and will be broken up into 2 checkpoint (10% each), and a final presentation/submission (20%). 
 
 
