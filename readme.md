@@ -17,12 +17,30 @@ Upon successful completion of this course, students will be able to:
 5. **Debug** issues in computer vision algorithms in python
 6. **Understand** the difference between analytical and empirical techniques, and the role each plays in the field
 7. **Discuss** historical and current trends in computer vision and key research developments
-8. **Collaborate** with peers and advisors to find and implement solutions to real computer vision problems. 
+8. **Collaborate** with peers and advisors to find and implement solutions to real computer vision problems
 
 ## Schedule
-Detailed Course Schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing).
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing). The course is broadly broken into 6 modules and 1 semester-long group project. 
+
+
+### Modules
+1. [The Original Problem](https://github.com/unccv/the_original_problem)
+2. Learning to See
+3. Neural Networks Demystified
+4. Autonomous Driving
+5. Structure from Motion
+6. Deep Learning 
 
 ## Grading
+
+### Programming Challenges (30%)
+
+
+### Quizzes (30%)
+
+
+### Course Project(40%)
+
 
 ## Policies
 
