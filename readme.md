@@ -40,7 +40,7 @@ Most modules will be accompanied with a coding challenge. These challenges will 
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
 
 ### Course Project (40%)
-The course will include a long-term group project. This project represents a significant portion of a student's grade, and will be broken up into 2 checkpoint (10% each), and a final presentation/submission (20%). 
+The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into 2 checkpoint (10% each), and a final presentation/submission (20%). 
 
 ## Programming
 We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, and tensorflow. 
