@@ -25,7 +25,7 @@ Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1P
 
 ### Modules
 1. [The Original Problem](https://github.com/unccv/the_original_problem)
-2. Learning to See
+2. [Learning to See](https://github.com/unccv/learning_to_see)
 3. Neural Networks Demystified
 4. Autonomous Driving
 5. Structure from Motion
