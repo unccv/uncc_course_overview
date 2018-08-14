@@ -26,7 +26,7 @@ Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1P
 ### Modules
 1. [The Original Problem](https://github.com/unccv/the_original_problem)
 2. [Learning to See](https://github.com/unccv/learning_to_see)
-3. Neural Networks Demystified
+3. [Neural Networks Demystified](https://github.com/unccv/neural_networks)
 4. Autonomous Driving
 5. Structure from Motion
 6. Deep Learning 
@@ -40,7 +40,8 @@ Most modules will be accompanied with a coding challenge. These challenges will 
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
 
 ### Course Project (40%)
-The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into 2 checkpoint (10% each), and a final presentation/submission (20%). 
+The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into graded checkpoints, including a final presentation. 
+
 
 ## Programming
 We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, and tensorflow. 
@@ -56,7 +57,7 @@ We will draw from 3 texts in this course, each available online:
 3. [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 
 ## Policies
-Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams. 
+Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
 
 
 
