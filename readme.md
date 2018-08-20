@@ -27,7 +27,7 @@ Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1P
 1. [The Original Problem](https://github.com/unccv/the_original_problem)
 2. [Learning to See](https://github.com/unccv/learning_to_see)
 3. [Neural Networks Demystified](https://github.com/unccv/neural_networks)
-4. Autonomous Driving
+4. [Autonomous Driving](https://github.com/unccv/autonomous_driving)
 5. Structure from Motion
 6. Deep Learning 
 
@@ -36,8 +36,11 @@ Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1P
 ### Programming Challenges (30%)
 Most modules will be accompanied with a coding challenge. These challenges will be automatically graded using an evaluation server. The evaluation server will also run anti-plagiarism checks to ensure each student's code is their own. Most coding challenges will be individual, some may be in groups. Students are allowed to upload 10 submissions to the evaluation server before the submission deadline. If possible, we will provide an automatically updating leaderboard. Coding challenges will be graded according to performance on an evaluation metric (accuracy, precision, recall..). Students should keep their solutions to challenges private, even after the course is over. 
 
-### Quizzes (30%)
+### Quizzes (20%)
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
+
+### Class Participation (10%)
+Class attendance + participation count for 10% of your final grade, and will be sampled randomly. 
 
 ### Course Project (40%)
 The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into graded checkpoints, including a final presentation. 
