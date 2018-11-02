@@ -28,8 +28,8 @@ Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1P
 2. [Learning to See](https://github.com/unccv/learning_to_see)
 3. [Neural Networks Demystified](https://github.com/unccv/neural_networks)
 4. [Autonomous Driving](https://github.com/unccv/autonomous_driving)
-5. Structure from Motion
-6. Deep Learning 
+5. [Structure from Motion](https://github.com/unccv/the_3d_world)
+6. [Deep Learning](https://github.com/unccv/deep_learning) 
 
 ## Grading
 
