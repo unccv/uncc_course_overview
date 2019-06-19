@@ -1,6 +1,6 @@
 # Computer Vision
 
-![](graphics/roberts_world_3b.gif)
+![](graphics/cv_lander_clip.gif)
 
 ## About this Course
 
