@@ -20,6 +20,21 @@ Now, as you may know, it’s taken longer than we thought, but we have made some
 
 So, how did we get here, how do these systems actually work, and what’s next? What does it mean that we can build really good systems for certain tasks? What problems have these systems solved and what new problems are new advances enabling?
 
+### Modules
+| Order |   Module    | Topics | Libraries Introduced | 
+| ------- | ------------- | --------------------------- | -------------------------- |
+| 1 | Introduction to Computer Vision | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Anaconda Python, Numpy, Matplotlib, PyTorch, fastai |
+| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| |
+| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees |
+| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | |
+| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Drivign| |
+| 6 | [Structure from Motion](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | opencv, opensfm|
+| 7 | [Deep Learning](https://github.com/unccv/deep_learning) | LeNet-5, Alexnet, Modern Architechures, Generative Models | Tensorflow, keras|
+
+
+## Schedule
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing). The course is broadly broken into 6 modules and 1 semester-long group project. 
+
 ## My Hopes for You
 
 Upon successful completion of this course, you should be able to:
@@ -33,19 +48,6 @@ Upon successful completion of this course, you should be able to:
 7. **Discuss** historical and current trends in computer vision and key research developments
 8. **Collaborate** with peers and advisors to find and implement solutions to real computer vision problems
 
-## Schedule
-Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing). The course is broadly broken into 6 modules and 1 semester-long group project. 
-
-### Modules
-| Order |   Module    | Topics | Libraries Introduced | 
-| ------- | ------------- | --------------------------- | -------------------------- |
-| 1 | Introduction to Computer Vision | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Anaconda Python, Numpy, Matplotlib, PyTorch, fastai |
-| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| |
-| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees |
-| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | |
-| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Drivign| |
-| 6 | [Structure from Motion](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | opencv, opensfm|
-| 7 | [Deep Learning](https://github.com/unccv/deep_learning) | LeNet-5, Alexnet, Modern Architechures, Generative Models | Tensorflow, keras|
 
 ## Grading
 
