@@ -4,11 +4,25 @@
 
 ## About this Course
 
-The thing we're going to learn about in this course, **computer vision**, has a very interesting history. It's roots really go all the way back to the beginning of computing and artifical intelligence. When this course is over, I want you to understand where we really are today, how we got here, and be able to make some reasonable conjectures about where the field is going next.
+This class is called computer vision, which I suppose means that I’m supposed to tell you something about how exactly we can use computers to do this thing we call vision. 
 
-I want you to be comfortable with cutting edge deep learning techniques, but also understand the broader context to which they belong. I want you to really understand why it's so deceptively difficult to program a computer to anything remotely close to what our visual cortex does.
+As we’ll see, doing this turns out to be significantly harder than people first expected. 
 
-Upon successful completion of this course, students will be able to:
+Part of the challenge here is that vision, like other processes that involve the brain, can be a bit hard to pin down. 
+
+What exactly does it mean to see? To have vision?
+
+You’re probably using your own vision system right now to read these words, but if I asked you to break down piece by piece how exactly your brain is processing the light that hits your retina into meaningful information, you would have a really tough time. 
+
+The vision researchers Peter Hart and Richard Duda had a really nice way of putting this when they wrote one of the first [computer vision books](https://www.amazon.com/Pattern-Classification-Scene-Analysis-Richard/dp/0471223611): *"Paradoxically, we are all expert at perception, but none of us knows much about it."*
+
+Now, as you may know, it’s taken longer than we thought, but we have made some good progress in computer vision. Today, the computer vision systems we’ve built are even better than humans at certain tasks. 
+
+So, how did we get here, how do these systems actually work, and what’s next? What does it mean that we can build really good systems for certain tasks? What problems have these systems solved and what new problems are new advances enabling?
+
+## My Hopes for You
+
+Upon successful completion of this course, you should be able to:
 
 1. **Setup** and manage a scientific python computing environment
 2. **Implement** key computer vision algorithms in python to solve real computer vision problems
@@ -22,14 +36,16 @@ Upon successful completion of this course, students will be able to:
 ## Schedule
 Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing). The course is broadly broken into 6 modules and 1 semester-long group project. 
 
-
 ### Modules
-1. [The Original Problem](https://github.com/unccv/the_original_problem)
-2. [Learning to See](https://github.com/unccv/learning_to_see)
-3. [Neural Networks Demystified](https://github.com/unccv/neural_networks)
-4. [Autonomous Driving](https://github.com/unccv/autonomous_driving)
-5. [Structure from Motion](https://github.com/unccv/the_3d_world)
-6. [Deep Learning](https://github.com/unccv/deep_learning) 
+| Order |   Module    | Topics | Libraries Introduced | 
+| ------- | ------------- | --------------------------- | -------------------------- |
+| 1 | Introduction to Computer Vision | Artificial Nuerons, Perceptrons, Neural Networks, Deep Learning Applications | Anaconda Python, Numpy, Matplotlib, PyTorch |
+| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| |
+| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | |
+| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | |
+| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | |
+| 6 | [Structure from Motion](https://github.com/unccv/the_3d_world) | opencv, opensfm|
+| 7 | [Deep Learning](https://github.com/unccv/deep_learning) | Tensorflow, keras|
 
 ## Grading
 
@@ -47,10 +63,10 @@ The course will include a [semester-long group project](https://github.com/unccv
 
 
 ## Programming
-We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, and tensorflow. 
+We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, tensorflow, and pytorch. 
 
 ## Preparation + Prerequisites
-Familiarity with the key techniques of linear algebra, univariate calculus will be useful. We will hit the ground running with python and numpy, so a little experience here would also helpful. 
+Familiarity with the key techniques of linear algebra, univariate calculus will be useful. We will hit the ground running with python and numpy, so a little experience here would also helpful. The [fastai](https://www.fast.ai/) courses are a really nice starting point.
 
 
 ## Resources
@@ -59,7 +75,7 @@ We will draw from 3 texts in this course, each available online:
 2. [Prince, Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 3. [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 
-## Policies
+## Policies + Collaboration
 Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
 
 
