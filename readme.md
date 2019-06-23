@@ -58,7 +58,7 @@ Most modules will be accompanied with a coding challenge. These challenges will 
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
 
 ### Class Participation (10%)
-Class attendance + participation count for 10% of your final grade, and will be sampled randomly. 
+Class attendance + participation count for 10% of your final grade, and will be monitored on Piazza. It provides useful statistics of a user's engagement on Piazza posts, discussion and other activities and these statistics will be used for grading. Click [here](https://docs.google.com/document/d/1Ke1NSwRFO1X3l6iebSH9ySL47K1psuIrcFeK-Hv0k2s/edit?usp=sharing) for FAQs.
 
 ### Course Project (40%)
 The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into graded checkpoints, including a final presentation. 
