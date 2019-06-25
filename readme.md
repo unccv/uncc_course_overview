@@ -23,7 +23,7 @@ So, how did we get here, how do these systems actually work, and what’s next? 
 ### Modules
 | Order |   Module    | Topics | Libraries Introduced | 
 | ------- | ------------- | --------------------------- | -------------------------- |
-| 1 | Introduction to Computer Vision | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Anaconda Python, Numpy, Matplotlib, PyTorch, fastai |
+| 1 | [Introduction to Computer Vision](https://github.com/unccv/intro_to_computer_vision) | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Anaconda Python, Numpy, Matplotlib, PyTorch, fastai |
 | 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| |
 | 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees |
 | 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | |
