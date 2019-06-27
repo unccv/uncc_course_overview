@@ -21,15 +21,15 @@ Now, as you may know, it’s taken longer than we thought, but we have made some
 So, how did we get here, how do these systems actually work, and what’s next? What does it mean that we can build really good systems for certain tasks? What problems have these systems solved and what new problems are new advances enabling?
 
 ### Modules
-| Order |   Module    | Topics | Libraries Introduced | 
+| Order |   Module    | Topics | Libraries Used | 
 | ------- | ------------- | --------------------------- | -------------------------- |
-| 1 | [Introduction to Computer Vision](https://github.com/unccv/intro_to_computer_vision) | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Anaconda Python, Numpy, Matplotlib, PyTorch, fastai |
-| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| |
-| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees |
-| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | |
-| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Drivign| |
-| 6 | [Structure from Motion](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | opencv, opensfm|
-| 7 | [Deep Learning](https://github.com/unccv/deep_learning) | LeNet-5, Alexnet, Modern Architechures, Generative Models | Tensorflow, keras|
+| 1 | [Introduction to Computer Vision](https://github.com/unccv/intro_to_computer_vision) | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Numpy, Matplotlib, PyTorch, fastai |
+| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| Numpy, Matplotlib|
+| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees | Numpy, Matplotlib, Sklearn |
+| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | Numpy, Matplotlib, Scipy |
+| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Drivign| Numpy, Matplotlib, Scipy|
+| 6 | [Deep Learning](https://github.com/unccv/deep_learning) | LeNet-5, Alexnet, Modern Architechures, Generative Models | Pytorch, fastai, Tensorflow, Keras|
+| 7 | [Structure from Motion](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | Opencv, Opensfm|
 
 
 ## Schedule
