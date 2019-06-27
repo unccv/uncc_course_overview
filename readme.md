@@ -33,9 +33,9 @@ So, how did we get here, how do these systems actually work, and what’s next? 
 
 
 ## Schedule
-Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1Odz1PMNrHdAFfWSJayRSEljyJ9PSdUEaggp9TOE22x0/edit?usp=sharing). The course is broadly broken into 6 modules and 1 semester-long group project. 
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1vaSnRjFRFxqtv-1R-1NJgjqrogtyfTaLCxOsyutSzHw/edit?usp=sharing). The course is broadly broken into 7 modules and 1 semester-long group project. 
 
-## My Hopes for You
+## My Goals for You
 
 Upon successful completion of this course, you should be able to:
 
@@ -78,7 +78,7 @@ We will draw from 3 texts in this course, each available online:
 3. [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
 
 ## Policies + Collaboration
-Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
+Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. **We run auto-plagarism checks on all your submissions that compare your code to your peer's code**. We also check against submissions from previous years. If we find that your code overlaps with another student's code, **we are required to report you to the office of academic affairs**. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
 
 
 
