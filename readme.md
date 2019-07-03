@@ -28,7 +28,7 @@ So, how did we get here, how do these systems actually work, and what’s next? 
 | 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees | Numpy, Matplotlib, Sklearn |
 | 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | Numpy, Matplotlib, Scipy |
 | 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Driving| Numpy, Matplotlib, Scipy|
-| 6 | [Deep Learning](https://github.com/unccv/deep_learning) | Training Your Own Models, Classification, Detection, GANs | Pytorch, fastai, Tensorflow, Keras|
+| 6 | [Deep Learning](https://github.com/unccv/deep_learning_for_computer_vision) | Training Your Own Models, Classification, Detection, GANs | Pytorch, fastai, Tensorflow, Keras|
 | 7 | [The 3d World](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | Opencv, Opensfm|
 
 
