@@ -63,13 +63,17 @@ Class attendance + participation count for 10% of your final grade, and will be 
 ### Course Project (40%)
 The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into graded checkpoints, including a final presentation. 
 
+## Classroom Policies
+Our classroom time is really valuable. Each hour of class time represents thousands of dollars of tuition costs. Your instructor's time is valuable. Our TAs time is valuable. Your time is valuable. Accordingly, we've adopted policies maximize the value of our time in class. 
+
+**1. Turn Your Phone Off.** Not silent, off. Phones are rediculously distracting (most apps are specifically designed to grab your attention!). When you come to class, we expect your phone to be completely off for the entire lecture. 
+**2. Put Your Laptop Away.** I know, you need it to take notes, right!? It turns our there is [strong evidence](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581) that you learn more when you take notes by hand. All lecture notes are available online, so you are not required to take notes to do well in the course. That said, many students learn more when they take some type of notes. You may print lecture notes before class to add your own hand written notes to, or simply take notes in a notebook. 
 
 ## Programming
 We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, tensorflow, and pytorch. 
 
 ## Preparation + Prerequisites
 Familiarity with the key techniques of linear algebra, univariate calculus will be useful. We will hit the ground running with python and numpy, so a little experience here would also helpful. The [fastai](https://www.fast.ai/) courses are a really nice starting point.
-
 
 ## Resources
 We will draw from 3 texts in this course, each available online:
