@@ -23,17 +23,16 @@ So, how did we get here, how do these systems actually work, and what’s next? 
 ### Modules
 | Order |   Module    | Topics | Libraries Used | 
 | ------- | ------------- | --------------------------- | -------------------------- |
-| 1 | [Introduction to Computer Vision](https://github.com/unccv/intro_to_computer_vision) | Artificial Nuerons, Perceptrons, Neural Networks, High-level Deep Learning, Applications | Numpy, Matplotlib, PyTorch, fastai |
-| 2 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| Numpy, Matplotlib|
-| 3 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees | Numpy, Matplotlib, Sklearn |
-| 4 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | Numpy, Matplotlib, Scipy |
-| 5 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Driving| Numpy, Matplotlib, Scipy|
-| 6 | [Deep Learning](https://github.com/unccv/deep_learning_for_computer_vision) | Training Your Own Models, Classification, Detection, GANs | Pytorch, fastai, Tensorflow, Keras|
-| 7 | [The 3d World](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | Opencv, Opensfm|
+| 1 | [The Original Problem](https://github.com/unccv/the_original_problem)| Image Processing, Edge Detection, Filtering, Hough Transform| Numpy, Matplotlib|
+| 2 | [Learning to See](https://github.com/unccv/learning_to_see) | Machine Learning Fundamentals, Bias and Variance, Overfitting, Decision Trees | Numpy, Matplotlib, Sklearn |
+| 3 | [Neural Networks Demystified](https://github.com/unccv/neural_networks) | Neural Network Fundamentals, Backpropogation, Gradient Descent | Numpy, Matplotlib, Scipy |
+| 4 | [Autonomous Driving](https://github.com/unccv/autonomous_driving) | Autonomous Driving History, Applications of Neural Networks, Computer Vision for Autonomous Driving| Numpy, Matplotlib, Scipy|
+| 5 | [Deep Learning](https://github.com/unccv/deep_learning_for_computer_vision) | Training Your Own Models, Classification, Detection, GANs | Pytorch, fastai, Tensorflow, Keras|
+| 6 | [The 3d World](https://github.com/unccv/the_3d_world) | Keypoint Detection and Matching, Projective Geometry, Camera Calibration, 3d Reconstruction | Opencv, Opensfm|
 
 
 ## Schedule
-Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1vaSnRjFRFxqtv-1R-1NJgjqrogtyfTaLCxOsyutSzHw/edit?usp=sharing). The course is broadly broken into 7 modules and 1 semester-long group project. 
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1FfuE7-WhaTzbUs_ScGchbRt4XVrsWy9DgRmeoRYzseU/edit#gid=0). The course is broadly broken into 7 modules and 1 semester-long group project. 
 
 ## My Goals for You
 
@@ -57,18 +56,11 @@ Most modules will be accompanied with a coding challenge. These challenges will 
 ### Quizzes (20%)
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
 
-### Class Participation (10%)
-Class attendance + participation count for 10% of your final grade, and will be monitored on Piazza. It provides useful statistics of a user's engagement on Piazza posts, discussion and other activities and these statistics will be used for grading. Click [here](https://docs.google.com/document/d/1Ke1NSwRFO1X3l6iebSH9ySL47K1psuIrcFeK-Hv0k2s/edit?usp=sharing) for FAQs.
+### Participation (10%)
+ Participation counts for 10% of your final grade, and will be monitored on Piazza. It provides useful statistics of a user's engagement on Piazza posts, discussion and other activities and these statistics will be used for grading. Click [here](https://docs.google.com/document/d/1Ke1NSwRFO1X3l6iebSH9ySL47K1psuIrcFeK-Hv0k2s/edit?usp=sharing) for FAQs.
 
 ### Course Project (40%)
 The course will include a [semester-long group project](https://github.com/unccv/course_project). This project represents a significant portion of a student's grade, and will be broken up into graded checkpoints, including a final presentation. 
-
-## Classroom Policies
-Our classroom time is really valuable. Each hour of class time represents thousands of dollars of tuition costs. Your instructor's time is valuable. Our TAs time is valuable. Your time is valuable. Accordingly, we've adopted policies maximize the value of our time in class. 
-
-**1. Turn Your Phone Off.** Not silent, off. Phones are rediculously distracting (most apps are specifically designed to grab your attention!). When you come to class, we expect your phone to be completely off for the entire lecture. 
-
-**2. Put Your Laptop Away.** I know, you need it to take notes, right!? It turns our there is [strong evidence](https://journals.sagepub.com/doi/abs/10.1177/0956797614524581) that you learn more when you take notes by hand. All lecture notes are available online, so you are not required to take notes to do well in the course. That said, many students learn more when they take some type of notes. You may print lecture notes before class to add your own hand written notes to, or simply take notes in a notebook. 
 
 ## Programming
 We will make heavy use of python in this course, spend lots of time in jupyter notebooks, and frequently use numpy, matplotlib, scipy, sklearn, opencv, tensorflow, and pytorch. 
@@ -81,6 +73,7 @@ We will draw from 3 texts in this course, each available online:
 1. [Szeliski, Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 2. [Prince, Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/)
 3. [Goodfellow, Deep Learning](http://www.deeplearningbook.org/)
+4. [fastai book](https://github.com/fastai/fastbook)
 
 ## Policies + Collaboration
 Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. **We run auto-plagarism checks on all your submissions that compare your code to your peer's code**. We also check against submissions from previous years. If we find that your code overlaps with another student's code, **we are required to report you to the office of academic affairs**. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
