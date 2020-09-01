@@ -32,7 +32,7 @@ So, how did we get here, how do these systems actually work, and what’s next? 
 
 
 ## Schedule
-Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1FfuE7-WhaTzbUs_ScGchbRt4XVrsWy9DgRmeoRYzseU/edit#gid=0). The course is broadly broken into 7 modules and 1 semester-long group project. 
+Detailed course schedule is [here](https://docs.google.com/spreadsheets/d/1FfuE7-WhaTzbUs_ScGchbRt4XVrsWy9DgRmeoRYzseU/edit#gid=0). The course is broadly broken into 6 modules and 1 semester-long group project. 
 
 ## My Goals for You
 
