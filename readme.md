@@ -51,7 +51,7 @@ Upon successful completion of this course, you should be able to:
 ## Grading
 
 ### Programming Challenges (30%)
-Most modules will be accompanied with a coding challenge. These challenges will be automatically graded using an evaluation server. The evaluation server will also run anti-plagiarism checks to ensure each student's code is their own. Most coding challenges will be individual, some may be in groups. Students are allowed to upload 10 submissions to the evaluation server before the submission deadline. If possible, we will provide an automatically updating leaderboard. Coding challenges will be graded according to performance on an evaluation metric (accuracy, precision, recall..). Students should keep their solutions to challenges private, even after the course is over. 
+Most modules will be accompanied with a coding challenge. These challenges will be automatically graded using an evaluation server. The evaluation server will also run anti-plagiarism checks to ensure each student's code is their own. Most coding challenges will be individual, some may be in groups. Students have a limited number of submissions to the evaluation server before the submission deadline. If possible, we will provide an automatically updating leaderboard. Coding challenges will be graded according to performance on an evaluation metric (accuracy, precision, recall..). Students should keep their solutions to challenges private, even after the course is over. 
 
 ### Quizzes (20%)
 Each module will end with a short in-class quiz. These quizzes will test basic knowledge of the techniques covered in each section, and probe the understanding gained in the coding challenges.
