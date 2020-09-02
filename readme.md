@@ -76,7 +76,7 @@ We will draw from 3 texts in this course, each available online:
 4. [fastai book](https://github.com/fastai/fastbook)
 
 ## Policies + Collaboration
-Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. **We run auto-plagarism checks on all your submissions that compare your code to your peer's code**. We also check against submissions from previous years. If we find that your code overlaps with another student's code, **we are required to report you to the office of academic affairs**. Students should keep their solutions to challenges private, even after the course is over. Quizzes are taken individually in-class, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
+Students are encouraged to discuss coding challenge strategies and techniques, but are not permitted to share code. **We run auto-plagarism checks on all your submissions that compare your code to your peer's code**. We also check against submissions from previous years. If we find that your code overlaps with another student's code, **we are required to report you to the office of academic affairs**. Students should keep their solutions to challenges private, even after the course is over. Quizzes are conducted on canvas, no collaboration is permitted on quizzes. The Course project will be completed in groups - students are of course encouraged to collaborate within their teams - and final projects will be posted on public GitHub pages. 
 
 
 
